@@ -46,3 +46,6 @@ Welcome to the Company Analytics Dashboard repository! This Power BI dashboard o
 Click there to View the Company Analysis Dashboard on Power BI 👇👇👇
 
 https://app.powerbi.com/reportEmbed?reportId=212c73cb-74d9-475c-873e-6830e27f2a1d&autoAuth=true&ctid=e37c7dd6-dcf4-4f50-9aa4-85bd6bb08877
+
+
+![powerbi](https://github.com/user-attachments/assets/744ca634-d8fa-4e14-9a6f-f01db2a255e9)
